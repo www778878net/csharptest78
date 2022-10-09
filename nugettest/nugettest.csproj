@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+<Deterministic>false</Deterministic>
+<Version>0.0.1</Version>
+<PackageId>nugettest78</PackageId>
+<Authors>Frieda.657225485@qq.com</Authors>
+<Company>www778878net</Company>
+<Product>nugettest78</Product>
+<Copyright>7788soft</Copyright>
+<PackageProjectUrl>http://www.778878.net</PackageProjectUrl>
+<PackageReadmeFile>READMORE.md</PackageReadmeFile>
+<RepositoryUrl>https://github.com/www778878net/Promise78.git</RepositoryUrl>
+<PackageTags>"7788";"www778878net";</PackageTags>
+<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="READMORE.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
