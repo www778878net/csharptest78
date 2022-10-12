@@ -2,11 +2,8 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/.vs/git78csharpcsharptest78/FileContentIndex
-/.vs/slnx.sqlite
-/.vs/VSWorkspaceState.json
-/nugettest/.vs
-/nugettest/bin/Debug
-/nugettest/obj
-/test/bin/Debug/net6.0
-/test/obj
+/.vs
+/csharpinit78/.vs/csharpinit78/v17
+/csharpinit78/bin/Debug/net6.0
+/csharpinit78/obj/Debug/net6.0
+/csharpinit78/obj
