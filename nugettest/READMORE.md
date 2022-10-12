@@ -1,35 +1,35 @@
-## ¼ò½é introduction
+ï»¿## ç®€ä»‹ introduction
 
-promise·â×° 
-1. ²»Òªtry catch
+promiseå°è£… 
+1. ä¸è¦try catch
 2. no try catch
-3. ·µ»Ø[err,back] 
+3. è¿”å›[err,back] 
 4. reback [err,back]
-5. if(err)¸æ¾¯È»ºó·µ»Ø¼´¿É;È»ºóÊ¹ÓÃbackÖµ
+5. if(err)å‘Šè­¦ç„¶åè¿”å›å³å¯;ç„¶åä½¿ç”¨backå€¼
 6. if(err)warn and return  ;get back 
 
-## ÊÊÓÃ¶Ë apply
+## é€‚ç”¨ç«¯ apply
 
 **use for `js ts` project**
 
-|¶Ë|Ö§³Ö|
+|ç«¯|æ”¯æŒ|
 |---|---|
-|Web|¡Ì|
-|Î¢ĞÅĞ¡³ÌĞò|¡Ì|
-|iOS|¡Ì|
-|Android|¡Ì|
+|Web|âˆš|
+|å¾®ä¿¡å°ç¨‹åº|âˆš|
+|iOS|âˆš|
+|Android|âˆš|
 
-## ÒÀÀµ rely on
-
-nothing
-
-
-
-## ÊôĞÔ props
+## ä¾èµ– rely on
 
 nothing
 
-## ·½·¨ method
+
+
+## å±æ€§ props
+
+nothing
+
+## æ–¹æ³• method
 
 nothing
 

@@ -8,3 +8,5 @@
 /nugettest/.vs
 /nugettest/bin/Debug
 /nugettest/obj
+/test/bin/Debug/net6.0
+/test/obj
