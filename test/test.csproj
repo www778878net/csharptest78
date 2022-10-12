@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\nugettest\nugettest.csproj" />
+    <ProjectReference Include="..\nugettest\nugettinit78.csproj" />
   </ItemGroup>
 
 </Project>
