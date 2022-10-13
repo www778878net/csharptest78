@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace csharpinit78
 {
-    internal class Class1
+    public class Class1
     {
         public static int add(int a,int b)
         {

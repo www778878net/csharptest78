@@ -1,4 +1,5 @@
-namespace csharpinit78
+using csharpinit78;
+namespace TestProject1
 {
     [TestClass]
     public class UnitTest1
